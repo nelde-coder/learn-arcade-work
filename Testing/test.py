@@ -1,4 +1,6 @@
 print("""
        Jag testar och visste inte att 
        man kunde göra
-       så här""")
+       så här
+       
+       DET VAR SÅ ROLIGT""")
